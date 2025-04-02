@@ -1,0 +1,16 @@
+pandas>=1.5.3,<2.0
+numpy>=1.24.0,<1.25.0
+sanic==24.12.0
+sanic-ext==23.12.0
+sanic-limiter
+sanic-cors
+python-dotenv==1.0.1
+requests==2.32.3
+websockets==10.3.0
+pandas-ta==0.3.14b0
+python-binance==1.0.28
+tenacity==9.0.0
+pytest==8.3.5
+pytest-asyncio==0.25.3
+psutil
+httpx
